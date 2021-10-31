@@ -9,7 +9,7 @@ A realworld drawing tool with real time hand gestures detection.
 ## Feature 
 - you can choose different color for drawing
 - choose eraser and remove something with hand gestures
-## Tech stack
+## Dependencies
 - python
 - numpy
 - mediapipe
